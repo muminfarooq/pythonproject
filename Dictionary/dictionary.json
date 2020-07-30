@@ -1,0 +1,48 @@
+{
+  "copyright": "fh",
+  "purpose": "sample dictionary.json for LocalDictionary project",
+  "todo": "add at least 3 more words with part of speech, definition, and optionally example of usage",
+  "entries": [
+    {
+      "word": "ace",
+      "part_of_speech": "noun",
+      "definition": "a playing card with a single spot on it, ranked as the highest card in its suit in most card games",
+      "example": "life had started dealing him aces again"
+    },
+    {
+      "word": "python",
+      "part_of_speech": "noun",
+      "definition": "a large heavy-bodied non-venomous snake occurring throughout the Old World tropics, killing prey by constriction and asphyxiation."
+    },
+    {
+      "word": "foothill",
+      "part_of_speech": "noun",
+      "definition": "a low hill at the base of a mountain or mountain range",
+      "example":  "the camp lies in the foothills of the Andes"
+    },
+    {
+      "word": "fly",
+      "part_of_speech": "verb",
+      "definition": "(of a bird, bat, or insect) move through the air using wings",
+      "example":  "he was sent flying by the tackle"
+    },
+    {
+      "word": "facetious",
+      "part_of_speech": "adjective",
+      "definition": "treating serious issues with deliberately inappropriate humor",
+      "example":  "he was facetious when we he said she didn't need a housekeeper anymore after her house burned down"
+    },
+    {
+      "word": "jolly",
+      "part_of_speech": "adjective",
+      "definition": "full of high spirits",
+      "example":  "santa claus is generally portrayed as a jolly figure"
+    },
+    {
+      "word": "prodigal",
+      "part_of_speech": "adjective",
+      "definition": "spending money or resources freely and recklessly; wastefully extravagant",
+      "example":  "the prodigal son returned home empty-handed after running off with his father's fortune"
+    }
+  ]
+}
